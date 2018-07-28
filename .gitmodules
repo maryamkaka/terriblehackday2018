@@ -1,0 +1,3 @@
+[submodule "diet_buddy"]
+	path = diet_buddy
+	url = https://github.com/Monty1029/diet_buddy
